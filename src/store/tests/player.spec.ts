@@ -38,6 +38,4 @@ describe('player', () => {
     movePlayerToDown()
     expect(player.y).toBe(2)
   })
-
-  
 })
